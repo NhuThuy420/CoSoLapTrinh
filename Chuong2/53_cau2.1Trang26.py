@@ -1,0 +1,5 @@
+Ten=input("nhap ho ten cua ban:")
+Tuoi=int(input("nhap tuoi cua ban:"))
+print("Ho ten: ",Ten)
+print("Tuoi: ",Tuoi)
+print("Chao ban" , Ten , "chuc mung sinh nhat thu" ,Tuoi , "!!!")
